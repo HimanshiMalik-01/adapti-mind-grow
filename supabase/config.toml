@@ -1,1 +1,13 @@
 project_id = "mqashwsvyffaybiavsmc"
+
+[auth]
+enabled = true
+
+[functions.assess-profile]
+verify_jwt = true
+
+[functions.adaptive-content]
+verify_jwt = true
+
+[functions.learning-assistant]
+verify_jwt = true

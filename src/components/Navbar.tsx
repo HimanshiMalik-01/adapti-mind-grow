@@ -26,10 +26,10 @@ const Navbar = () => {
           </div>
           
           <div className="flex items-center gap-4">
-            <Button variant="ghost" className="hidden sm:inline-flex">
+            <Button variant="ghost" className="hidden sm:inline-flex" onClick={() => window.location.href = '/auth'}>
               Sign In
             </Button>
-            <Button variant="hero">
+            <Button variant="hero" onClick={() => window.location.href = '/auth'}>
               Get Started
             </Button>
           </div>
