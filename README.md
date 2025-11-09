@@ -1,22 +1,56 @@
-# Welcome to your Lovable project
+# Welcome to your  NeuroLearn Platform
 
-## Project info
+# Overview
 
-**URL**: https://lovable.dev/projects/b0255a87-a268-47a1-82df-78a877a543a2
+NeuroNest is an inclusive educational platform designed to support neurodiverse learners by providing adaptive learning modules, skill-building resources, sensory-friendly tools, and a supportive community. It aims to empower learners, parents, educators, and mentors with personalized content and practical resources.
 
-## How can I edit this code?
+# Features
 
-There are several ways of editing your application.
+Adaptive Learning Modules with multimodal formats and adjustable pacing
 
-**Use Lovable**
+Executive functioning and social-emotional skill builders
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/b0255a87-a268-47a1-82df-78a877a543a2) and start prompting.
+Sensory-friendly resources including calming audio and customizable UI
 
-Changes made via Lovable will be committed automatically to this repo.
+Community forums, mentorship, and safe sharing spaces
+
+Parent and Educator toolkits with guides, dashboards, and worksheets
+
+Blog with insights, expert interviews, and platform updates
+
+# Target Audience
+
+Neurodiverse learners seeking personalized education
+
+Parents and educators supporting neurodiverse individuals
+
+Mentors and community members fostering inclusive environments
+
+Advocates and experts in neurodiversity and inclusive education
+
+# Getting Started
+
+Explore the adaptive learning modules tailored to your needs.
+
+Utilize skill builders to enhance executive functioning and social skills.
+
+Access sensory-friendly tools to create a comfortable learning environment.
+
+Join community forums to connect with peers and mentors.
+
+Use parent and educator toolkits for additional support.
+
+# Contribution
+
+Contributions to NeuroNest are welcome! Please follow the contribution guidelines and code of conduct.
+
+
+
+
 
 **Use your preferred IDE**
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+If you want to work locally using your own IDE, you can clone this repo and push changes.
 
 The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
 
@@ -60,14 +94,5 @@ This project is built with:
 - shadcn-ui
 - Tailwind CSS
 
-## How can I deploy this project?
 
-Simply open [Lovable](https://lovable.dev/projects/b0255a87-a268-47a1-82df-78a877a543a2) and click on Share -> Publish.
 
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
