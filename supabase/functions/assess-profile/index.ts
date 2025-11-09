@@ -75,7 +75,11 @@ Analyze these responses and provide a comprehensive learning profile.`;
     }
 
     const data = await response.json();
-    const analysisText = data.choices[0].message.content;
+    let analysisText = data.choices[0].message.content;
+    
+    // Remove markdown code blocks if present
+    analysisText = analysisText.replace(/```json\n?/g, '').replace(/```\n?/g, '').trim();
+    
     const analysis = JSON.parse(analysisText);
 
     console.log('Assessment complete:', analysis.profileType);
